@@ -26,7 +26,7 @@ function Contact() {
             className="button button-primary"
           >
             Scrivimi
-            <span className="button-arrow">↗</span>
+            <span className="button-arrow">↗︎</span>
           </a>
 
           <span className="contact-email">

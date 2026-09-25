@@ -27,7 +27,7 @@ function Services() {
             <span className="service-number">01</span>
 
             <span className="service-icon">
-              ↗
+              ↗︎
             </span>
           </div>
 

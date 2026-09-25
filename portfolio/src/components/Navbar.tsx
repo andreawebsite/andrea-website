@@ -110,7 +110,7 @@ function Navbar() {
           className="mobile-menu-cta"
           onClick={closeMenu}
         >
-          Parliamone ↗
+          Parliamone ↗︎
         </a>
 
       </div>

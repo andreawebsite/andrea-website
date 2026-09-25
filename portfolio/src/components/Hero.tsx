@@ -8,7 +8,7 @@ function Hero() {
         </div>
 
         <h1>
-          Il tuo business
+          <span className="hero-title-main">Il tuo business</span>
           <span> merita di essere visto.</span>
         </h1>
 
@@ -21,7 +21,7 @@ function Hero() {
         <div className="hero-actions">
           <a href="#portfolio" className="button button-primary">
             Guarda i progetti
-            <span className="button-arrow">↗</span>
+            <span className="button-arrow">↗︎</span>
           </a>
 
           <a href="#contatti" className="button button-secondary">
@@ -78,7 +78,7 @@ function Hero() {
         </div>
 
         <div className="floating-card">
-          <span className="floating-icon">↗</span>
+          <span className="floating-icon">↗︎</span>
 
           <div>
             <strong>+ Presenza online</strong>
